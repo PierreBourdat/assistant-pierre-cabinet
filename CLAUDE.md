@@ -9,12 +9,13 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 - Détails, tableaux et explications seulement sur demande.
 
 ## Mails (Gmail)
-- **Ne jamais envoyer, transférer ou répondre directement.** Toujours créer un brouillon et me le signaler.
-- **Au début de chaque session qui touche aux mails, charger le skill `redaction-mails-cabinet`** avant le premier brouillon (salutation, formules, ton du cabinet).
+- **Ne jamais envoyer, transférer ou répondre directement.**
+- **Ne jamais créer de brouillon Gmail sans mon accord.** Proposer d'abord le texte dans la session (destinataires, objet, corps) ; créer le brouillon seulement après mon « oui », mail par mail.
+- **Au début de chaque session qui touche aux mails, charger le skill `redaction-mails-cabinet`** avant de rédiger la première réponse (salutation, formules, ton du cabinet).
 - Ne jamais supprimer, mettre en spam ou archiver sans ma validation explicite.
 - Tri de la boîte, dans cet ordre :
   1. Urgent / à traiter aujourd'hui (clients, banques, administrations, échéances)
-  2. À répondre (préparer un brouillon)
+  2. À répondre (proposer le texte de la réponse dans la session)
   3. Pour info
   4. Sans intérêt (newsletters, prospection) : à signaler, sans action
 - Pièces jointes : les résumer, ne rien ouvrir ni télécharger hors de la demande.
