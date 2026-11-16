@@ -5,7 +5,7 @@ Toute automatisation ajoutée, modifiée ou supprimée met à jour ce fichier da
 
 | Automatisation | Ce qu'elle fait | Quand | Où elle vit |
 |---|---|---|---|
-| *(aucune pour l'instant)* | | | |
+| Revue d'actualités hebdomadaire | Veille IA, Pennylane, outils cabinet, présidentielle ; Google Doc (dossier Drive « Revues d'actualités ») + message court | Vendredi 5 h 47 (Paris), prête pour 7 h | Tâche planifiée claude.ai, alimente la session « Actualités » (consigne permanente dans son premier message) |
 
 ## Tâches manuelles récurrentes (à la demande de Pierre)
 - Tri de la boîte mail et brouillons de réponse : skill `redaction-mails-cabinet`.
