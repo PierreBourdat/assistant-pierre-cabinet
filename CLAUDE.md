@@ -14,6 +14,7 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
   - « Je valide la suppression » (+ les mails concernés) : mettre à la corbeille ;
   - « Je valide l'archivage » (+ les mails concernés) : archiver ;
   - « Je valide la mise en spam » (+ les mails concernés) : mettre en spam.
+  Après une réponse envoyée sur « Je valide l'envoi », archiver aussitôt le fil auquel j'ai répondu s'il est dans la boîte de réception (sans autre formule).
   Les mails concernés sont nommés (expéditeur ou objet) ou désignés par leur numéro dans ma dernière liste. Sans la formule exacte, ou si un mail n'est pas clairement désigné, ne rien faire et me demander, même si je dis « ok » ou « c'est bon ».
 - **Ne jamais créer de brouillon Gmail sans mon accord.** Proposer d'abord le texte dans la session (destinataires, objet, corps) ; créer le brouillon seulement après mon « oui », mail par mail.
 - **Au début de chaque session qui touche aux mails, charger le skill `redaction-mails-cabinet`** avant de rédiger la première réponse (salutation, formules, ton du cabinet).
