@@ -26,6 +26,7 @@
     ],
     "ask": [
       "mcp__github__merge_pull_request",
+      "mcp__claude-code-remote__add_repo",
       "mcp__Google_Calendar__create_event",
       "mcp__Google_Calendar__update_event",
       "mcp__Google_Calendar__delete_event",

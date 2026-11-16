@@ -45,6 +45,8 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 - Toute automatisation ajoutée, modifiée ou supprimée met à jour `docs/processus.md` dans la même PR.
 - Fichiers de travail (exports, extractions) dans le répertoire temporaire de la session, jamais dans le dépôt.
 - Ne jamais modifier `.claude/settings.json` (verrous) sans mon accord.
+- Travailler uniquement sur le dépôt de la session. Ne jamais ajouter ni lire un autre dépôt sans mon accord (verrou : confirmation demandée).
+- Nouveau dépôt de projet : me rappeler de l'ajouter à l'application GitHub Claude (Settings › Applications › Claude › Configure › Only select repositories).
 
 ## Organisation du dépôt
 - `CLAUDE.md` : ces règles.
