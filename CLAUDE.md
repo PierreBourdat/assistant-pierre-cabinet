@@ -5,7 +5,7 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 ## Style de réponse
 - Réponses courtes, en français.
 - Pendant le travail : phrases d'étape minimales.
-- À la fin : 10 lignes maximum, en trois parties (Fait / À valider par moi / Ensuite).
+- À la fin : 10 lignes maximum, en trois parties (Fait / À valider par toi / Ensuite).
 - Détails, tableaux et explications seulement sur demande.
 
 ## Mails (Gmail)
