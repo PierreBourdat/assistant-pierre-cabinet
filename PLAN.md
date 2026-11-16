@@ -15,8 +15,9 @@
 ### Phase 1 - Gouvernance
 - [x] Règles de Claude (`CLAUDE.md`)
 - [x] Fichiers de départ (README, PLAN, docs, CODEOWNERS, verrous, .gitignore)
-- [ ] Réglages GitHub cochés par Pierre
+- [x] Réglages GitHub cochés par Pierre
 
 ### Phase 2 - Méthodes
 - [ ] Notes de méthode dans `notes/` au fil des sessions (tri des mails, préparation des rendez-vous)
+- [x] Règle du fichier Stripe (suivi ADV) dans `CLAUDE.md`
 - [ ] Inventaire des automatisations tenu à jour dans `docs/processus.md`
