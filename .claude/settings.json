@@ -3,16 +3,16 @@
     "allow": [
       "mcp__github__merge_pull_request",
       "mcp__Google_Calendar__create_event",
-      "mcp__Google_Calendar__update_event"
-    ],
-    "deny": [
+      "mcp__Google_Calendar__update_event",
       "mcp__Gmail__send_message",
-      "mcp__Gmail__forward",
       "mcp__Gmail__reply",
+      "mcp__Gmail__forward",
       "mcp__Gmail__trash_message",
       "mcp__Gmail__trash_thread",
       "mcp__Gmail__mark_message_spam",
-      "mcp__Gmail__mark_thread_spam",
+      "mcp__Gmail__mark_thread_spam"
+    ],
+    "deny": [
       "mcp__Gmail__delete_label",
       "mcp__Google_Drive__trash_file",
       "mcp__Google_Drive__share_file",
