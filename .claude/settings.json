@@ -1,5 +1,8 @@
 {
   "permissions": {
+    "allow": [
+      "mcp__github__merge_pull_request"
+    ],
     "deny": [
       "mcp__Gmail__send_message",
       "mcp__Gmail__forward",
@@ -25,7 +28,6 @@
       "Bash(git push -f*)"
     ],
     "ask": [
-      "mcp__github__merge_pull_request",
       "mcp__Google_Calendar__create_event",
       "mcp__Google_Calendar__update_event",
       "mcp__Google_Calendar__delete_event",
