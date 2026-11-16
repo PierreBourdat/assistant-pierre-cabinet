@@ -6,7 +6,7 @@
 - Les méthodes longues vivent dans des skills Claude ; ce dépôt y renvoie.
 
 ## Décisions
-- Mails : texte proposé dans la session ; envoi, réponse, transfert, corbeille et archivage sans carte (`allow`), uniquement sur les formules exactes de Pierre (« Je valide l'envoi / la suppression / l'archivage » + mails concernés) ; spam toujours bloqué (décision du 16/11/2026).
+- Mails : texte proposé dans la session ; envoi, réponse, transfert, corbeille, archivage et spam sans carte (`allow`), uniquement sur les formules exactes de Pierre (« Je valide l'envoi / la suppression / l'archivage / la mise en spam » + mails concernés) (décision du 16/11/2026).
 - Écritures dans les outils : après validation de Pierre (confirmation demandée par Claude Code).
 - Agenda : création et modification d'événements sans carte de confirmation (`allow`), uniquement à la demande de Pierre ; suppression et réponse aux invitations restent en confirmation.
 - Fusion en squash, sur « fusionne » de Pierre ; Claude fusionne sans carte de confirmation (`allow`) : le « fusionne » de Pierre suffit.

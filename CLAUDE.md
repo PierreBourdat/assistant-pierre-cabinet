@@ -12,11 +12,11 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 - **Actions sur les mails uniquement sur une formule exacte de ma part**, qui vaut pour les mails que je cite dans le même message (un ou plusieurs) :
   - « Je valide l'envoi » (+ les mails concernés) : envoyer, répondre ou transférer, pour des mails dont j'ai vu le texte complet (destinataires, objet, corps) dans la session ;
   - « Je valide la suppression » (+ les mails concernés) : mettre à la corbeille ;
-  - « Je valide l'archivage » (+ les mails concernés) : archiver.
-  Sans la formule exacte, ne rien faire, même si je dis « ok » ou « c'est bon ».
+  - « Je valide l'archivage » (+ les mails concernés) : archiver ;
+  - « Je valide la mise en spam » (+ les mails concernés) : mettre en spam.
+  Les mails concernés sont nommés (expéditeur ou objet) ou désignés par leur numéro dans ma dernière liste. Sans la formule exacte, ou si un mail n'est pas clairement désigné, ne rien faire et me demander, même si je dis « ok » ou « c'est bon ».
 - **Ne jamais créer de brouillon Gmail sans mon accord.** Proposer d'abord le texte dans la session (destinataires, objet, corps) ; créer le brouillon seulement après mon « oui », mail par mail.
 - **Au début de chaque session qui touche aux mails, charger le skill `redaction-mails-cabinet`** avant de rédiger la première réponse (salutation, formules, ton du cabinet).
-- Ne jamais mettre en spam.
 - Tri de la boîte, dans cet ordre :
   1. Urgent / à traiter aujourd'hui (clients, banques, administrations, échéances)
   2. À répondre (proposer le texte de la réponse dans la session)
