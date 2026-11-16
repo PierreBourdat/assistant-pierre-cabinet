@@ -33,6 +33,23 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 - Données clients strictement confidentielles : ne jamais les mettre dans ce dépôt, dans un service externe ni dans une page publique.
 - Ce dépôt contient uniquement des règles, des modèles et des notes de méthode.
 
+## Avant d'agir
+- Lire README.md, PLAN.md et docs/ avant toute tâche sur le dépôt ; utiliser la méthode déjà prévue s'il y en a une.
+- En fin de tâche sur le dépôt, mettre à jour PLAN.md (et docs/ si l'organisation change).
+
+## Dépôt, PR et commits
+- Travailler sur une branche, ouvrir une PR brouillon ; jamais de push sur `main`.
+- Ne jamais fusionner une PR sans « fusionne » explicite de ma part.
+- Petites PR, une intention par PR, description en français : quoi, pourquoi, comment vérifier.
+- Commits en français, à l'impératif présent.
+- Toute automatisation ajoutée, modifiée ou supprimée met à jour `docs/processus.md` dans la même PR.
+- Fichiers de travail (exports, extractions) dans le répertoire temporaire de la session, jamais dans le dépôt.
+- Ne jamais modifier `.claude/settings.json` (verrous) sans mon accord.
+
 ## Organisation du dépôt
 - `CLAUDE.md` : ces règles.
+- `README.md` : objectif, sources de vérité, structure.
+- `PLAN.md` : décisions et phases.
+- `docs/` : architecture et inventaire des processus.
 - `notes/` : notes de méthode à garder d'une session à l'autre (sans données clients).
+- `.claude/settings.json` : verrous sur les outils dangereux.

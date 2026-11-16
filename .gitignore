@@ -1,0 +1,15 @@
+# Secrets
+.env*
+
+# Données de travail (jamais dans le dépôt)
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.docx
+exports/
+
+# Caches et systèmes
+.DS_Store
+Thumbs.db
+.claude/settings.local.json

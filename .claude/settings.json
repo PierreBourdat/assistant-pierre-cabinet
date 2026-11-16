@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__forward",
+      "mcp__Gmail__reply",
+      "mcp__Gmail__trash_message",
+      "mcp__Gmail__trash_thread",
+      "mcp__Gmail__mark_message_spam",
+      "mcp__Gmail__mark_thread_spam",
+      "mcp__Gmail__delete_label",
+      "mcp__Google_Drive__trash_file",
+      "mcp__Google_Drive__share_file",
+      "mcp__Notion__notion-delete-pages",
+      "mcp__Notion__notion-delete-databases",
+      "mcp__Lemlist__launch_campaign",
+      "mcp__Lemlist__send_message",
+      "mcp__Lemlist__delete_campaign_leads",
+      "mcp__Lemlist__delete_contact",
+      "mcp__Lemlist__delete_company",
+      "mcp__Stripe__stripe_api_write",
+      "mcp__github__enable_pr_auto_merge",
+      "Bash(git push origin main*)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)"
+    ],
+    "ask": [
+      "mcp__github__merge_pull_request",
+      "mcp__Google_Calendar__create_event",
+      "mcp__Google_Calendar__update_event",
+      "mcp__Google_Calendar__delete_event",
+      "mcp__Google_Calendar__respond_to_event",
+      "mcp__Youtrust__send-signature-request",
+      "mcp__Youtrust__create-signature-request",
+      "mcp__Youtrust__create-signature-request-from-template",
+      "mcp__Slack__slack_send_message",
+      "mcp__Slack__slack_schedule_message",
+      "mcp__HubSpot__manage_crm_objects",
+      "mcp__Pennylane__run_operations",
+      "mcp__Google_Drive__create_file",
+      "mcp__Google_Drive__update_file",
+      "mcp__Notion__notion-create-pages",
+      "mcp__Notion__notion-update-page"
+    ]
+  }
+}
