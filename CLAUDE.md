@@ -5,7 +5,7 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 ## Style de réponse
 - Réponses courtes, en français.
 - Pendant le travail : phrases d'étape minimales.
-- À la fin : 10 lignes maximum, en trois parties (Fait / À valider par moi / Ensuite).
+- À la fin : 10 lignes maximum, en trois parties (Fait / À valider par toi / Ensuite).
 - Détails, tableaux et explications seulement sur demande.
 
 ## Mails (Gmail)
@@ -45,6 +45,8 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 - Toute automatisation ajoutée, modifiée ou supprimée met à jour `docs/processus.md` dans la même PR.
 - Fichiers de travail (exports, extractions) dans le répertoire temporaire de la session, jamais dans le dépôt.
 - Ne jamais modifier `.claude/settings.json` (verrous) sans mon accord.
+- Travailler uniquement sur le dépôt `PierreBourdat/assistant-pierre-cabinet`. Ne jamais ajouter ni lire un autre dépôt sans mon accord.
+- Ouverture d'une nouvelle session (suite de travail) : toujours avec l'environnement `assistant-pierre-cabinet` (`env_01Y1rq93NYqp2PuebCtNsZWd`) et le dépôt `https://github.com/PierreBourdat/assistant-pierre-cabinet`, jamais l'un sans l'autre.
 
 ## Organisation du dépôt
 - `CLAUDE.md` : ces règles.
