@@ -6,7 +6,7 @@
 - Les méthodes longues vivent dans des skills Claude ; ce dépôt y renvoie.
 
 ## Décisions
-- Mails : jamais d'envoi direct (verrou dans `.claude/settings.json`) ; texte proposé dans la session, brouillon Gmail créé seulement après accord de Pierre (décision du 16/11/2026).
+- Mails : texte proposé dans la session ; envoi ou réponse directe sans carte (`allow`) uniquement sur la phrase exacte « Je valide l'envoi » de Pierre, un mail à la fois ; transfert toujours bloqué (décision du 16/11/2026).
 - Écritures dans les outils : après validation de Pierre (confirmation demandée par Claude Code).
 - Agenda : création et modification d'événements sans carte de confirmation (`allow`), uniquement à la demande de Pierre ; suppression et réponse aux invitations restent en confirmation.
 - Fusion en squash, sur « fusionne » de Pierre ; Claude fusionne sans carte de confirmation (`allow`) : le « fusionne » de Pierre suffit.

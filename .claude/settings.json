@@ -3,12 +3,12 @@
     "allow": [
       "mcp__github__merge_pull_request",
       "mcp__Google_Calendar__create_event",
-      "mcp__Google_Calendar__update_event"
+      "mcp__Google_Calendar__update_event",
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__reply"
     ],
     "deny": [
-      "mcp__Gmail__send_message",
       "mcp__Gmail__forward",
-      "mcp__Gmail__reply",
       "mcp__Gmail__trash_message",
       "mcp__Gmail__trash_thread",
       "mcp__Gmail__mark_message_spam",

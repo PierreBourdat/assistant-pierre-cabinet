@@ -9,7 +9,8 @@ Ce dépôt sert à Pierre pour ses tâches quotidiennes avec Claude Code : mails
 - Détails, tableaux et explications seulement sur demande.
 
 ## Mails (Gmail)
-- **Ne jamais envoyer, transférer ou répondre directement.**
+- **Envoyer ou répondre à un mail uniquement quand j'écris exactement « Je valide l'envoi »**, pour un mail dont j'ai vu le texte complet (destinataires, objet, corps) dans la session. Une validation vaut pour un seul mail. Sans cette phrase exacte, ne jamais envoyer ni répondre, même si je dis « c'est bon » ou « ok ».
+- Ne jamais transférer un mail.
 - **Ne jamais créer de brouillon Gmail sans mon accord.** Proposer d'abord le texte dans la session (destinataires, objet, corps) ; créer le brouillon seulement après mon « oui », mail par mail.
 - **Au début de chaque session qui touche aux mails, charger le skill `redaction-mails-cabinet`** avant de rédiger la première réponse (salutation, formules, ton du cabinet).
 - Ne jamais supprimer, mettre en spam ou archiver sans ma validation explicite.
