@@ -19,13 +19,13 @@
       "mcp__Lemlist__delete_contact",
       "mcp__Lemlist__delete_company",
       "mcp__Stripe__stripe_api_write",
-      "mcp__github__merge_pull_request",
       "mcp__github__enable_pr_auto_merge",
       "Bash(git push origin main*)",
       "Bash(git push --force*)",
       "Bash(git push -f*)"
     ],
     "ask": [
+      "mcp__github__merge_pull_request",
       "mcp__Google_Calendar__create_event",
       "mcp__Google_Calendar__update_event",
       "mcp__Google_Calendar__delete_event",

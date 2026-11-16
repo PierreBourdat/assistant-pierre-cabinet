@@ -8,7 +8,7 @@
 ## Décisions
 - Mails : brouillons uniquement, jamais d'envoi direct (verrou dans `.claude/settings.json`).
 - Écritures dans les outils : après validation de Pierre (confirmation demandée par Claude Code).
-- Fusion en squash, sur accord explicite de Pierre.
+- Fusion en squash, sur « fusionne » de Pierre ; Claude fusionne après une carte de confirmation (`ask`, jamais `deny`).
 - Pas de workflow de tests : le dépôt ne contient pas de code.
 
 ## Phases
